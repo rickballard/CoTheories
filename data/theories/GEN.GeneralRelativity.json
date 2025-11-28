@@ -1,0 +1,32 @@
+{
+  "theory_id": "GEN.GeneralRelativity",
+  "name": "General Relativity",
+  "domain": "Physics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Spacetime Curvature",
+    "Metric Tensor",
+    "Geodesic",
+    "Equivalence Principle",
+    "Gravitational Field",
+    "Einstein Field Equations",
+    "Stress Energy Tensor",
+    "Black Hole",
+    "Event Horizon",
+    "Gravitational Wave",
+    "Cosmological Constant",
+    "Geodesic Deviation",
+    "Gravitational Lensing",
+    "Singularity",
+    "Coordinate Invariance"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

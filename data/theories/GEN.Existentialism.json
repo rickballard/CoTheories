@@ -1,0 +1,26 @@
+{
+  "theory_id": "GEN.Existentialism",
+  "name": "Existentialism",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Freedom",
+    "Responsibility",
+    "Authenticity",
+    "Absurdity",
+    "Angst",
+    "Choice",
+    "Meaning",
+    "Existence",
+    "Value"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

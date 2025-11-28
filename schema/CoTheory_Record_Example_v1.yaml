@@ -1,0 +1,58 @@
+theory_id: PHYS.StandardModel
+name: Standard Model of Particle Physics
+domain: Physics
+tier: 1
+status: active
+stance: core
+
+summary_coSpeak: >
+  The Standard Model is a quantum field theory that describes three of the four
+  known fundamental forces; electromagnetic; weak; and strong; and classifies
+  all known elementary particles except gravity. It is highly predictive and
+  experimentally confirmed; yet known to be incomplete.
+
+core_terms:
+  - Quantum Field
+  - Gauge Symmetry
+  - Fermion
+  - Boson
+  - Quark
+  - Lepton
+  - Gauge Boson
+  - Gluon
+  - Photon
+  - W Boson
+  - Z Boson
+  - Higgs Boson
+  - Higgs Field
+  - Spontaneous Symmetry Breaking
+  - Renormalization
+  - Color Charge
+  - Weak Interaction
+  - Strong Interaction
+  - Electroweak Interaction
+
+problem_ids:
+  - PHYS.Unification
+  - COSMO.DarkMatter
+  - COSMO.DarkEnergy
+
+cotwin_ids:
+  - PHYS.StringTheory
+  - PHYS.LoopQuantumGravity
+
+sources:
+  - "Peskin and Schroeder; An Introduction to Quantum Field Theory"
+  - "PDG Review of Particle Physics"
+
+tags:
+  - quantum
+  - high_energy
+  - unification
+
+origin_note: "Seeded in CoTheories v1 from generic physics canon; not yet tied to specific CoCivium repos."
+
+notes_coMeta: >
+  In CoMeta; the Standard Model stands as an example of a powerful yet incomplete
+  human theory; a reminder that even highly successful models may miss key parts
+  of reality; such as gravity or dark sectors.

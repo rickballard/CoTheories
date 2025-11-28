@@ -1,0 +1,32 @@
+{
+  "theory_id": "GEN.ComplexSystemsTheory",
+  "name": "Complex Systems Theory",
+  "domain": "ComplexSystems",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Emergence",
+    "Nonlinearity",
+    "Self Organization",
+    "Adaptation",
+    "Network",
+    "Feedback Loop",
+    "Attractor",
+    "Phase Transition",
+    "Criticality",
+    "Scaling",
+    "Heterogeneity",
+    "Robustness",
+    "Resilience",
+    "Multi Scale",
+    "Coevolution"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

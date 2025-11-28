@@ -1,0 +1,29 @@
+{
+  "theory_id": "GEN.SpecialRelativity",
+  "name": "Special Relativity",
+  "domain": "Physics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Inertial Frame",
+    "Constant Speed of Light",
+    "Time Dilation",
+    "Length Contraction",
+    "Relativity of Simultaneity",
+    "Lorentz Transformation",
+    "Spacetime Interval",
+    "Proper Time",
+    "Rest Mass",
+    "Relativistic Momentum",
+    "Mass Energy Equivalence",
+    "Four Vector"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

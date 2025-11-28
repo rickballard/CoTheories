@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.BayesianInference",
+  "name": "Bayesian Inference",
+  "domain": "ComputerScience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Prior",
+    "Likelihood",
+    "Posterior",
+    "Evidence",
+    "Bayes Rule",
+    "Conjugate Prior",
+    "Hierarchical Model",
+    "Credible Interval",
+    "Bayesian Updating",
+    "Model Comparison",
+    "Predictive Distribution",
+    "MCMC",
+    "Approximate Inference",
+    "Bayesian Network"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

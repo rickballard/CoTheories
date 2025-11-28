@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.AutomataTheory",
+  "name": "Automata Theory",
+  "domain": "Mathematics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Finite Automaton",
+    "Regular Language",
+    "Context Free Grammar",
+    "Pushdown Automaton",
+    "Turing Machine",
+    "Language Class",
+    "Deterministic",
+    "Non Deterministic",
+    "State",
+    "Transition",
+    "Acceptance",
+    "Closure Properties",
+    "Pumping Lemma",
+    "Hierarchy"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

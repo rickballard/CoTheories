@@ -1,0 +1,30 @@
+{
+  "theory_id": "GEN.MeasureTheory",
+  "name": "Measure Theory",
+  "domain": "Mathematics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Sigma Algebra",
+    "Measure",
+    "Measurable Set",
+    "Measurable Function",
+    "Integral",
+    "Lebesgue Measure",
+    "Null Set",
+    "Almost Everywhere",
+    "Convergence",
+    "Fubini Theorem",
+    "Dominated Convergence",
+    "Probability Measure",
+    "Product Measure"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

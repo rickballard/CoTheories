@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.FunctionalisminSociology",
+  "name": "Functionalism in Sociology",
+  "domain": "Sociology",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Function",
+    "System",
+    "Institution",
+    "Role",
+    "Stability",
+    "Integration",
+    "Equilibrium",
+    "Norm"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

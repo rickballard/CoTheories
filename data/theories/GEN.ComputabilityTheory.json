@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.ComputabilityTheory",
+  "name": "Computability Theory",
+  "domain": "Mathematics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Algorithm",
+    "Turing Machine",
+    "Computable Function",
+    "Decision Problem",
+    "Halting Problem",
+    "Recursion",
+    "Reduction",
+    "Complexity Class",
+    "Decidability",
+    "Semi decidability",
+    "Universal Machine",
+    "Encoding",
+    "Oracle",
+    "Church Turing Thesis"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

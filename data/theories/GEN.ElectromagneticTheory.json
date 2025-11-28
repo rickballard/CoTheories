@@ -1,0 +1,33 @@
+{
+  "theory_id": "GEN.ElectromagneticTheory",
+  "name": "Electromagnetic Theory",
+  "domain": "Physics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Electric Field",
+    "Magnetic Field",
+    "Charge",
+    "Current",
+    "Maxwell Equations",
+    "Potential",
+    "Gauss Law",
+    "Faraday Law",
+    "Displacement Current",
+    "Electromagnetic Wave",
+    "Polarization",
+    "Permittivity",
+    "Permeability",
+    "Boundary Conditions",
+    "Radiation",
+    "Poynting Vector"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

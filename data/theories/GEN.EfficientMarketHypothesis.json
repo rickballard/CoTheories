@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.EfficientMarketHypothesis",
+  "name": "Efficient Market Hypothesis",
+  "domain": "Economics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Information",
+    "Price",
+    "Random Walk",
+    "Arbitrage",
+    "Weak Form",
+    "Semi Strong Form",
+    "Strong Form",
+    "Expectation"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

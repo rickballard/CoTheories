@@ -1,0 +1,26 @@
+{
+  "theory_id": "GEN.Idealism",
+  "name": "Idealism",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Mind",
+    "Experience",
+    "Reality",
+    "Representation",
+    "Perception",
+    "World",
+    "Ontology",
+    "Appearance",
+    "Idea"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

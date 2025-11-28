@@ -1,0 +1,30 @@
+{
+  "theory_id": "GEN.StatisticalLearningTheory",
+  "name": "Statistical Learning Theory",
+  "domain": "ComputerScience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Hypothesis Class",
+    "Loss",
+    "Risk",
+    "Empirical Risk",
+    "Structural Risk",
+    "VC Dimension",
+    "Capacity",
+    "Generalization Bound",
+    "Overfitting",
+    "Underfitting",
+    "Regularization",
+    "Margin",
+    "Complexity Penalty"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

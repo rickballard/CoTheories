@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.PostStructuralism",
+  "name": "Post Structuralism",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Deconstruction",
+    "Power",
+    "Discourse",
+    "Subject",
+    "Difference",
+    "Text",
+    "Interpretation",
+    "Play"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

@@ -1,0 +1,29 @@
+{
+  "theory_id": "GEN.EvolutionaryGameTheory",
+  "name": "Evolutionary Game Theory",
+  "domain": "Biology",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Evolutionary Stable Strategy",
+    "Replicator Dynamics",
+    "Fitness Landscape",
+    "Population",
+    "Mutation",
+    "Selection",
+    "Strategy Frequency",
+    "Payoff Matrix",
+    "Hawk Dove Game",
+    "Cooperation",
+    "Defection",
+    "Social Dilemma"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

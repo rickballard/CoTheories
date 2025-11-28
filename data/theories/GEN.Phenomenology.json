@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.Phenomenology",
+  "name": "Phenomenology",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Lived Experience",
+    "Intentionality",
+    "First Person",
+    "Horizon",
+    "Lifeworld",
+    "Epoché",
+    "Essence",
+    "Embodiment"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

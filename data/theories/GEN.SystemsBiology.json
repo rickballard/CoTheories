@@ -1,0 +1,30 @@
+{
+  "theory_id": "GEN.SystemsBiology",
+  "name": "Systems Biology",
+  "domain": "Biology",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Network",
+    "Pathway",
+    "Regulation",
+    "Feedback",
+    "Gene Expression",
+    "Signaling",
+    "Metabolic Network",
+    "Nonlinearity",
+    "Robustness",
+    "Emergence",
+    "Homeostasis",
+    "Oscillation",
+    "Multi Scale Model"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

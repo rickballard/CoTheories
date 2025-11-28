@@ -1,0 +1,26 @@
+{
+  "theory_id": "GEN.CommonsGovernanceTheory",
+  "name": "Commons Governance Theory",
+  "domain": "Governance",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Common Pool Resource",
+    "Tragedy of the Commons",
+    "Rule",
+    "Monitoring",
+    "Sanction",
+    "Trust",
+    "Cooperation",
+    "Collective Action",
+    "Design Principles"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

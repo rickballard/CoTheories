@@ -1,0 +1,80 @@
+Theory of Evolution by Natural Selection: Natural Selection, Adaptation, Variation, Fitness, Heritability, Mutation, Gene Pool, Speciation, Common Descent, Sexual Selection, Genetic Drift, Gene Flow, Environmental Pressure, Artificial Selection, Evolutionary Fitness, Reproductive Success, Selection Pressure, Population, Lineage, Phylogeny
+Cell Theory: Cell, Organism, Pre existing Cells, Unicellular, Multicellular, Organelle, Cell Membrane, Cytoplasm, Nucleus, Cell Division, Mitosis, Meiosis, Prokaryote, Eukaryote, Homeostasis, Metabolism, Microscopy, Tissue
+Germ Theory of Disease: Pathogen, Infection, Microbe, Bacteria, Virus, Fungi, Transmission, Contagion, Hygiene, Sterilization, Immunity, Vaccination, Host, Vector, Incubation, Antisepsis, Antibiotics, Epidemiology
+Theory of Plate Tectonics: Lithosphere, Plate, Mantle, Convection, Subduction, Mid Ocean Ridge, Transform Boundary, Divergent Boundary, Convergent Boundary, Continental Drift, Seafloor Spreading, Crust, Earthquake, Volcano, Orogeny, Fault, Hot Spot, Tectonic Cycle
+Kinetic Molecular Theory of Gases: Molecule, Random Motion, Elastic Collision, Pressure, Volume, Temperature, Ideal Gas, Mean Free Path, Kinetic Energy, Boltzmann Distribution, Maxwell Distribution, Root Mean Square Speed, Avogadro Hypothesis, Gas Constant
+Atomic Theory: Atom, Proton, Neutron, Electron, Nucleus, Electron Shell, Orbital, Quantum State, Isotope, Atomic Number, Mass Number, Periodic Table, Chemical Bond, Valence, Orbital Hybridization, Electron Cloud, Energy Level, Ion
+Quantum Mechanics: Wave Function, Superposition, Uncertainty Principle, Quantum State, Operator, Eigenvalue, Eigenvector, Hilbert Space, Schrödinger Equation, Measurement, Entanglement, Spin, Commutation, Quantum Probability, Decoherence, Quantum Tunneling, Energy Quantization, Non Local Correlation
+Special Relativity: Inertial Frame, Constant Speed of Light, Time Dilation, Length Contraction, Relativity of Simultaneity, Lorentz Transformation, Spacetime Interval, Proper Time, Rest Mass, Relativistic Momentum, Mass Energy Equivalence, Four Vector
+General Relativity: Spacetime Curvature, Metric Tensor, Geodesic, Equivalence Principle, Gravitational Field, Einstein Field Equations, Stress Energy Tensor, Black Hole, Event Horizon, Gravitational Wave, Cosmological Constant, Geodesic Deviation, Gravitational Lensing, Singularity, Coordinate Invariance
+Standard Model of Particle Physics: Gauge Symmetry, Quantum Field, Fermion, Boson, Quark, Lepton, Gauge Boson, Gluon, Photon, W Boson, Z Boson, Higgs Boson, Higgs Field, Spontaneous Symmetry Breaking, Renormalization, Color Charge, Weak Interaction, Strong Interaction, Electroweak Interaction
+String Theory: String, Brane, Extra Dimensions, Compactification, Supersymmetry, Duality, Conformal Field Theory, Worldsheet, Vibrational Mode, Holography, AdS CFT, Landscape, Calabi Yau Manifold, Quantum Gravity, Planck Scale
+Thermodynamics: Temperature, Heat, Work, Internal Energy, Entropy, Free Energy, Enthalpy, Thermal Equilibrium, State Variable, Equation of State, Reversible Process, Irreversible Process, First Law, Second Law, Third Law, Carnot Cycle, Efficiency, Heat Engine
+Statistical Mechanics: Microstate, Macrostate, Ensemble, Partition Function, Boltzmann Entropy, Probability Distribution, Canonical Ensemble, Grand Canonical Ensemble, Fluctuation, Ergodicity, Phase Space, Thermodynamic Limit, Order Parameter, Phase Transition, Critical Phenomena
+Electromagnetic Theory: Electric Field, Magnetic Field, Charge, Current, Maxwell Equations, Potential, Gauss Law, Faraday Law, Displacement Current, Electromagnetic Wave, Polarization, Permittivity, Permeability, Boundary Conditions, Radiation, Poynting Vector
+Classical Mechanics: Force, Mass, Acceleration, Newton Laws, Momentum, Energy, Work, Potential Energy, Kinetic Energy, Angular Momentum, Torque, Lagrangian, Hamiltonian, Conservation Law, Phase Space, Trajectory, Stability, Oscillation
+Chaos Theory: Nonlinearity, Sensitive Dependence, Strange Attractor, Phase Space, Bifurcation, Lyapunov Exponent, Deterministic Chaos, Fractal Structure, Initial Conditions, Logistic Map, Poincaré Section, Limit Cycle, Route to Chaos, Emergent Order
+Information Theory: Entropy, Information, Channel, Noise, Capacity, Mutual Information, Source Coding, Channel Coding, Redundancy, Compression, Error Correction, Bit, Signal to Noise Ratio, Data Rate, Typical Set, Codeword, Rate Distortion
+Control Theory: Feedback, System, State, Input, Output, Transfer Function, Stability, Pole, Zero, Controller, PID, Observability, Controllability, State Space, Frequency Response, Robustness, Disturbance, Reference Tracking, Lyapunov Stability
+Game Theory: Strategy, Payoff, Player, Nash Equilibrium, Dominant Strategy, Mixed Strategy, Zero Sum, Cooperative Game, Non Cooperative Game, Pareto Efficiency, Best Response, Information Set, Repeated Game, Evolutionary Stable Strategy, Mechanism Design, Incentive Compatibility
+Decision Theory: Preference, Utility, Probability, Expected Utility, Risk Aversion, Bayesian Updating, Choice, Prospect, Loss Aversion, Reference Point, Rationality, Axioms, Dominance, Ambiguity, Subjective Probability, Value Function
+Computability Theory: Algorithm, Turing Machine, Computable Function, Decision Problem, Halting Problem, Recursion, Reduction, Complexity Class, Decidability, Semi decidability, Universal Machine, Encoding, Oracle, Church Turing Thesis
+Complexity Theory: Complexity Class, P, NP, NP Complete, NP Hard, Reduction, Polynomial Time, Exponential Time, Approximation, Randomized Algorithm, Interactive Proof, Cryptographic Hardness, Space Complexity, Time Complexity, Circuit Complexity
+Automata Theory: Finite Automaton, Regular Language, Context Free Grammar, Pushdown Automaton, Turing Machine, Language Class, Deterministic, Non Deterministic, State, Transition, Acceptance, Closure Properties, Pumping Lemma, Hierarchy
+Formal Language Theory: Alphabet, String, Grammar, Production Rule, Syntax, Semantics, Regular Language, Context Free Language, Context Sensitive Language, Recursively Enumerable Language, Chomsky Hierarchy, Derivation, Parse Tree
+Graph Theory: Vertex, Edge, Path, Cycle, Degree, Connectivity, Tree, Subgraph, Planar Graph, Coloring, Clique, Matching, Network Flow, Centrality, Adjacency Matrix, Laplacian, Isomorphism, Euler Path, Hamiltonian Cycle
+Set Theory: Set, Element, Membership, Subset, Union, Intersection, Complement, Power Set, Cardinality, Infinity, Ordinal, Axiom, Choice, ZF, ZFC, Well Ordering, Equivalence Relation, Function
+Measure Theory: Sigma Algebra, Measure, Measurable Set, Measurable Function, Integral, Lebesgue Measure, Null Set, Almost Everywhere, Convergence, Fubini Theorem, Dominated Convergence, Probability Measure, Product Measure
+Probability Theory: Random Variable, Distribution, Expectation, Variance, Independence, Conditional Probability, Bayes Theorem, Law of Large Numbers, Central Limit Theorem, Martingale, Stochastic Process, Markov Chain, Filtration, Covariance, Correlation
+Bayesian Inference: Prior, Likelihood, Posterior, Evidence, Bayes Rule, Conjugate Prior, Hierarchical Model, Credible Interval, Bayesian Updating, Model Comparison, Predictive Distribution, MCMC, Approximate Inference, Bayesian Network
+Frequentist Inference: Estimator, Hypothesis Test, Confidence Interval, p Value, Significance Level, Power, Sample, Population, Bias, Variance, Maximum Likelihood, Sufficiency, Consistency, Asymptotics, Likelihood Ratio
+Evolutionary Game Theory: Evolutionary Stable Strategy, Replicator Dynamics, Fitness Landscape, Population, Mutation, Selection, Strategy Frequency, Payoff Matrix, Hawk Dove Game, Cooperation, Defection, Social Dilemma
+Population Genetics: Allele Frequency, Genotype, Phenotype, Hardy Weinberg Equilibrium, Mutation, Selection, Genetic Drift, Gene Flow, Inbreeding, Linkage, Recombination, Fixation, Population Structure, Effective Population Size
+Systems Biology: Network, Pathway, Regulation, Feedback, Gene Expression, Signaling, Metabolic Network, Nonlinearity, Robustness, Emergence, Homeostasis, Oscillation, Multi Scale Model
+Neuroscience Theory of Neural Coding: Neuron, Spike, Firing Rate, Tuning Curve, Population Code, Temporal Code, Synapse, Plasticity, Hebbian Learning, Neural Network, Receptive Field, Information Coding, Noise, Redundancy
+Predictive Coding Theory of Brain Function: Prediction Error, Generative Model, Hierarchy, Prior, Posterior, Surprise, Free Energy, Inference, Top Down Signal, Bottom Up Signal, Precision Weighting, Belief Update
+Reinforcement Learning Theory: Agent, Environment, Reward, Policy, Value Function, Q Function, Markov Decision Process, State, Action, Return, Discount Factor, Exploration, Exploitation, Temporal Difference, Bellman Equation
+Deep Learning Theory: Neural Network, Layer, Weight, Activation, Loss Function, Backpropagation, Gradient Descent, Overparameterization, Generalization, Representation, Feature, Expressivity, Optimization Landscape
+Statistical Learning Theory: Hypothesis Class, Loss, Risk, Empirical Risk, Structural Risk, VC Dimension, Capacity, Generalization Bound, Overfitting, Underfitting, Regularization, Margin, Complexity Penalty
+Information Bottleneck Theory: Relevant Information, Compression, Representation, Input, Output, Tradeoff, Mutual Information, Encoder, Decoder, Bottleneck Variable, Optimal Code, Sufficiency
+Cybernetics: Feedback, Control, System, Regulator, Variety, Homeostasis, Self Regulation, Information, Communication, Black Box, Circular Causality, Autopoiesis, Observer, Hierarchy
+Complex Systems Theory: Emergence, Nonlinearity, Self Organization, Adaptation, Network, Feedback Loop, Attractor, Phase Transition, Criticality, Scaling, Heterogeneity, Robustness, Resilience, Multi Scale, Coevolution
+Autopoiesis Theory: Self Production, Boundary, System, Environment, Organization, Structure, Recursive Process, Operational Closure, Autonomy, Identity, Perturbation, Structural Coupling
+Enactivist Theory of Mind: Embodiment, Situatedness, Sensorimotor Coupling, Autonomy, Enaction, World Making, Experience, Organism, Environment, Sense Making, Agency
+Embodied Cognition Theory: Body, Environment, Sensorimotor Loop, Representation, Action, Perception, Affordance, Situatedness, Motor System, Grounded Concept
+Global Workspace Theory of Consciousness: Workspace, Broadcasting, Access, Competition, Attention, Unconscious Process, Conscious Content, Integration, Ignition, Global Availability
+Integrated Information Theory: Information, Integration, Phi, Cause Effect Structure, System, Mechanism, Exclusion, Level, Qualia, Irreducibility
+Higher Order Thought Theory of Consciousness: Thought, Perception, Representation, Awareness, Meta Representation, First Order State, Higher Order State, Access, Misrepresentation
+Panpsychism: Consciousness, Fundamental Property, Ubiquity, Combination Problem, Micro Experience, Macro Experience, Realism, Ontology
+Physicalism: Physical Property, Supervenience, Reduction, Emergence, Identity Theory, Realization, Causation, Monism
+Dualism: Mind, Body, Substance, Property, Interaction, Parallelism, Epiphenomenalism, Ontology, Consciousness, Matter
+Idealism: Mind, Experience, Reality, Representation, Perception, World, Ontology, Appearance, Idea
+Phenomenology: Lived Experience, Intentionality, First Person, Horizon, Lifeworld, Epoché, Essence, Embodiment
+Existentialism: Freedom, Responsibility, Authenticity, Absurdity, Angst, Choice, Meaning, Existence, Value
+Structuralism: Structure, System, Sign, Binary Opposition, Relation, Language, Code, Deep Structure
+Post Structuralism: Deconstruction, Power, Discourse, Subject, Difference, Text, Interpretation, Play
+Utilitarianism: Utility, Consequence, Happiness, Aggregate Welfare, Maximization, Impartiality, Cost Benefit
+Deontological Ethics: Duty, Rule, Obligation, Right, Intent, Autonomy, Universalization, Respect
+Virtue Ethics: Character, Virtue, Habit, Flourishing, Telos, Practical Wisdom, Moral Education
+Care Ethics: Relationship, Dependency, Vulnerability, Context, Emotion, Responsiveness, Responsibility
+Rawlsian Justice Theory: Original Position, Veil of Ignorance, Basic Structure, Fairness, Primary Goods, Difference Principle, Liberty, Equality
+Social Contract Theory: Consent, Contract, State, Authority, Obligation, Rights, Sovereignty, Legitimacy
+Marxist Theory of Society: Class, Capital, Labor, Exploitation, Commodity, Alienation, Production, Mode of Production, Ideology, Superstructure, Base, Revolution
+Rational Choice Theory in Sociology: Actor, Preference, Cost, Benefit, Constraint, Incentive, Institution, Strategy, Equilibrium
+Symbolic Interactionism: Symbol, Interaction, Meaning, Self, Role, Identity, Negotiation, Labeling
+Functionalism in Sociology: Function, System, Institution, Role, Stability, Integration, Equilibrium, Norm
+Systems Theory in Social Science: System, Boundary, Input, Output, Feedback, Environment, Complexity, Level, Emergence, Adaptation
+Public Choice Theory: Voter, Politician, Bureaucrat, Incentive, Rent Seeking, Collective Action, Median Voter, Logrolling
+Institutional Theory: Institution, Norm, Rule, Path Dependence, Legitimacy, Isomorphism, Field, Actor, Governance
+Liberal Democracy Theory: Representation, Rights, Rule of Law, Separation of Powers, Pluralism, Election, Accountability, Consent
+Deliberative Democracy Theory: Deliberation, Reason Giving, Inclusion, Public Sphere, Legitimacy, Dialogue, Consensus, Justification
+Polycentric Governance Theory: Multiple Centers, Overlapping Jurisdictions, Local Knowledge, Self Governance, Nested Systems, Diversity, Adaptation
+Commons Governance Theory: Common Pool Resource, Tragedy of the Commons, Rule, Monitoring, Sanction, Trust, Cooperation, Collective Action, Design Principles
+Modern Portfolio Theory: Risk, Return, Diversification, Correlation, Efficient Frontier, Portfolio, Asset, Variance, Covariance, Optimization
+Efficient Market Hypothesis: Information, Price, Random Walk, Arbitrage, Weak Form, Semi Strong Form, Strong Form, Expectation
+Endogenous Growth Theory: Innovation, Knowledge, Human Capital, Spillover, Investment, R and D, Productivity, Externality
+Keynesian Macroeconomic Theory: Aggregate Demand, Multiplier, Consumption, Investment, Government Spending, Output, Employment, Fiscal Policy
+Monetarism: Money Supply, Inflation, Central Bank, Expectations, Quantity Theory, Rule, Neutrality
+Modern Monetary Theory: Sovereign Currency, Deficit, Job Guarantee, Real Constraint, Inflation, Sector Balances, Policy Space
+Capability Approach: Capability, Functioning, Freedom, Agency, Wellbeing, Choice, Opportunity, Justice
+Sustainable Development Theory: Environment, Economy, Society, Intergenerational Equity, Carrying Capacity, Resilience, Resource, Regeneration

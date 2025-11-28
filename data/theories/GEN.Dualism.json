@@ -1,0 +1,27 @@
+{
+  "theory_id": "GEN.Dualism",
+  "name": "Dualism",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Mind",
+    "Body",
+    "Substance",
+    "Property",
+    "Interaction",
+    "Parallelism",
+    "Epiphenomenalism",
+    "Ontology",
+    "Consciousness",
+    "Matter"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

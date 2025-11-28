@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.SustainableDevelopmentTheory",
+  "name": "Sustainable Development Theory",
+  "domain": "Governance",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Environment",
+    "Economy",
+    "Society",
+    "Intergenerational Equity",
+    "Carrying Capacity",
+    "Resilience",
+    "Resource",
+    "Regeneration"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

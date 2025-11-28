@@ -1,0 +1,29 @@
+{
+  "theory_id": "GEN.AutopoiesisTheory",
+  "name": "Autopoiesis Theory",
+  "domain": "ComplexSystems",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Self Production",
+    "Boundary",
+    "System",
+    "Environment",
+    "Organization",
+    "Structure",
+    "Recursive Process",
+    "Operational Closure",
+    "Autonomy",
+    "Identity",
+    "Perturbation",
+    "Structural Coupling"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

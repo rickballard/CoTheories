@@ -1,0 +1,29 @@
+{
+  "theory_id": "GEN.MarxistTheoryofSociety",
+  "name": "Marxist Theory of Society",
+  "domain": "Sociology",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Class",
+    "Capital",
+    "Labor",
+    "Exploitation",
+    "Commodity",
+    "Alienation",
+    "Production",
+    "Mode of Production",
+    "Ideology",
+    "Superstructure",
+    "Base",
+    "Revolution"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

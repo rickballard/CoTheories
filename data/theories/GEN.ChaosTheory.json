@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.ChaosTheory",
+  "name": "Chaos Theory",
+  "domain": "Unknown",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Nonlinearity",
+    "Sensitive Dependence",
+    "Strange Attractor",
+    "Phase Space",
+    "Bifurcation",
+    "Lyapunov Exponent",
+    "Deterministic Chaos",
+    "Fractal Structure",
+    "Initial Conditions",
+    "Logistic Map",
+    "Poincaré Section",
+    "Limit Cycle",
+    "Route to Chaos",
+    "Emergent Order"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

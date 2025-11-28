@@ -1,0 +1,33 @@
+{
+  "theory_id": "GEN.DecisionTheory",
+  "name": "Decision Theory",
+  "domain": "Unknown",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Preference",
+    "Utility",
+    "Probability",
+    "Expected Utility",
+    "Risk Aversion",
+    "Bayesian Updating",
+    "Choice",
+    "Prospect",
+    "Loss Aversion",
+    "Reference Point",
+    "Rationality",
+    "Axioms",
+    "Dominance",
+    "Ambiguity",
+    "Subjective Probability",
+    "Value Function"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

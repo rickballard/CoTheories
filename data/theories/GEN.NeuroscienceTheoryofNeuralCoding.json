@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.NeuroscienceTheoryofNeuralCoding",
+  "name": "Neuroscience Theory of Neural Coding",
+  "domain": "Neuroscience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Neuron",
+    "Spike",
+    "Firing Rate",
+    "Tuning Curve",
+    "Population Code",
+    "Temporal Code",
+    "Synapse",
+    "Plasticity",
+    "Hebbian Learning",
+    "Neural Network",
+    "Receptive Field",
+    "Information Coding",
+    "Noise",
+    "Redundancy"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

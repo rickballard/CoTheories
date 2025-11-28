@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CoTheoryRecord",
+  "type": "object",
+  "required": ["theory_id", "name", "domain", "status", "summary_coSpeak", "core_terms"],
+  "properties": {
+    "theory_id": { "type": "string" },
+    "name": { "type": "string" },
+    "domain": { "type": "string" },
+    "tier": { "type": "integer" },
+    "status": { "type": "string", "enum": ["active", "deprecated", "speculative", "adversarial", "archival"] },
+    "stance": { "type": "string", "enum": ["core", "useful", "disputed", "caution", "contrary"] },
+    "summary_coSpeak": { "type": "string" },
+    "core_terms": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "problem_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "cotwin_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "origin_note": { "type": "string" },
+    "notes_coMeta": { "type": "string" }
+  }
+}

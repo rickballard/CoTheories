@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.RawlsianJusticeTheory",
+  "name": "Rawlsian Justice Theory",
+  "domain": "Justice",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Original Position",
+    "Veil of Ignorance",
+    "Basic Structure",
+    "Fairness",
+    "Primary Goods",
+    "Difference Principle",
+    "Liberty",
+    "Equality"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

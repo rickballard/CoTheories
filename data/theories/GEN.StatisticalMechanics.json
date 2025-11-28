@@ -1,0 +1,32 @@
+{
+  "theory_id": "GEN.StatisticalMechanics",
+  "name": "Statistical Mechanics",
+  "domain": "Physics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Microstate",
+    "Macrostate",
+    "Ensemble",
+    "Partition Function",
+    "Boltzmann Entropy",
+    "Probability Distribution",
+    "Canonical Ensemble",
+    "Grand Canonical Ensemble",
+    "Fluctuation",
+    "Ergodicity",
+    "Phase Space",
+    "Thermodynamic Limit",
+    "Order Parameter",
+    "Phase Transition",
+    "Critical Phenomena"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

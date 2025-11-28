@@ -1,0 +1,31 @@
+{
+  "theory_id": "GEN.KineticMolecularTheoryofGases",
+  "name": "Kinetic Molecular Theory of Gases",
+  "domain": "Physics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Molecule",
+    "Random Motion",
+    "Elastic Collision",
+    "Pressure",
+    "Volume",
+    "Temperature",
+    "Ideal Gas",
+    "Mean Free Path",
+    "Kinetic Energy",
+    "Boltzmann Distribution",
+    "Maxwell Distribution",
+    "Root Mean Square Speed",
+    "Avogadro Hypothesis",
+    "Gas Constant"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

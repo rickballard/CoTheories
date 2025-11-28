@@ -1,0 +1,29 @@
+{
+  "theory_id": "GEN.InformationBottleneckTheory",
+  "name": "Information Bottleneck Theory",
+  "domain": "ComputerScience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Relevant Information",
+    "Compression",
+    "Representation",
+    "Input",
+    "Output",
+    "Tradeoff",
+    "Mutual Information",
+    "Encoder",
+    "Decoder",
+    "Bottleneck Variable",
+    "Optimal Code",
+    "Sufficiency"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

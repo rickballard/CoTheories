@@ -1,0 +1,24 @@
+{
+  "theory_id": "GEN.PolycentricGovernanceTheory",
+  "name": "Polycentric Governance Theory",
+  "domain": "PoliticalTheory",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Multiple Centers",
+    "Overlapping Jurisdictions",
+    "Local Knowledge",
+    "Self Governance",
+    "Nested Systems",
+    "Diversity",
+    "Adaptation"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

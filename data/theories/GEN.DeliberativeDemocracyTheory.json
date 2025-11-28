@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.DeliberativeDemocracyTheory",
+  "name": "Deliberative Democracy Theory",
+  "domain": "PoliticalTheory",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Deliberation",
+    "Reason Giving",
+    "Inclusion",
+    "Public Sphere",
+    "Legitimacy",
+    "Dialogue",
+    "Consensus",
+    "Justification"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

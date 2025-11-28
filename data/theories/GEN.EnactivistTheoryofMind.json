@@ -1,0 +1,28 @@
+{
+  "theory_id": "GEN.EnactivistTheoryofMind",
+  "name": "Enactivist Theory of Mind",
+  "domain": "CognitiveScience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Embodiment",
+    "Situatedness",
+    "Sensorimotor Coupling",
+    "Autonomy",
+    "Enaction",
+    "World Making",
+    "Experience",
+    "Organism",
+    "Environment",
+    "Sense Making",
+    "Agency"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

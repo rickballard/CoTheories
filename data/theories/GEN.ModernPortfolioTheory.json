@@ -1,0 +1,27 @@
+{
+  "theory_id": "GEN.ModernPortfolioTheory",
+  "name": "Modern Portfolio Theory",
+  "domain": "Economics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Risk",
+    "Return",
+    "Diversification",
+    "Correlation",
+    "Efficient Frontier",
+    "Portfolio",
+    "Asset",
+    "Variance",
+    "Covariance",
+    "Optimization"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.KeynesianMacroeconomicTheory",
+  "name": "Keynesian Macroeconomic Theory",
+  "domain": "Economics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Aggregate Demand",
+    "Multiplier",
+    "Consumption",
+    "Investment",
+    "Government Spending",
+    "Output",
+    "Employment",
+    "Fiscal Policy"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

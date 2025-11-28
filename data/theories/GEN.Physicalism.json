@@ -1,0 +1,25 @@
+{
+  "theory_id": "GEN.Physicalism",
+  "name": "Physicalism",
+  "domain": "Philosophy",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Physical Property",
+    "Supervenience",
+    "Reduction",
+    "Emergence",
+    "Identity Theory",
+    "Realization",
+    "Causation",
+    "Monism"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

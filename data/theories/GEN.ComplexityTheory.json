@@ -1,0 +1,32 @@
+{
+  "theory_id": "GEN.ComplexityTheory",
+  "name": "Complexity Theory",
+  "domain": "Mathematics",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Complexity Class",
+    "P",
+    "NP",
+    "NP Complete",
+    "NP Hard",
+    "Reduction",
+    "Polynomial Time",
+    "Exponential Time",
+    "Approximation",
+    "Randomized Algorithm",
+    "Interactive Proof",
+    "Cryptographic Hardness",
+    "Space Complexity",
+    "Time Complexity",
+    "Circuit Complexity"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

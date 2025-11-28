@@ -1,0 +1,33 @@
+{
+  "theory_id": "GEN.GameTheory",
+  "name": "Game Theory",
+  "domain": "Unknown",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Strategy",
+    "Payoff",
+    "Player",
+    "Nash Equilibrium",
+    "Dominant Strategy",
+    "Mixed Strategy",
+    "Zero Sum",
+    "Cooperative Game",
+    "Non Cooperative Game",
+    "Pareto Efficiency",
+    "Best Response",
+    "Information Set",
+    "Repeated Game",
+    "Evolutionary Stable Strategy",
+    "Mechanism Design",
+    "Incentive Compatibility"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}

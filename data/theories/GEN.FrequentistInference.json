@@ -1,0 +1,32 @@
+{
+  "theory_id": "GEN.FrequentistInference",
+  "name": "Frequentist Inference",
+  "domain": "ComputerScience",
+  "tier": 3,
+  "status": "archival",
+  "stance": "useful",
+  "summary_coSpeak": "",
+  "core_terms": [
+    "Estimator",
+    "Hypothesis Test",
+    "Confidence Interval",
+    "p Value",
+    "Significance Level",
+    "Power",
+    "Sample",
+    "Population",
+    "Bias",
+    "Variance",
+    "Maximum Likelihood",
+    "Sufficiency",
+    "Consistency",
+    "Asymptotics",
+    "Likelihood Ratio"
+  ],
+  "problem_ids": [],
+  "cotwin_ids": [],
+  "sources": [],
+  "tags": [],
+  "origin_note": "CoTheoryTrove_v1_Wave1_seed_20251125T073407Z",
+  "notes_coMeta": ""
+}
